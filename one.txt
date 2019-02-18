@@ -1,1 +1,2 @@
-one
+public class one{
+}
