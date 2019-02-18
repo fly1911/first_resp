@@ -1,5 +1,5 @@
-Three!!!
-
-修改three.txt文件！！！
-
-test update!!
+public class HelloWorld{
+      public static void main(String args){
+           System.out.println("hello world!!!");
+      }
+}
